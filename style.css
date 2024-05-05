@@ -1,5 +1,7 @@
 body{
-    background-color:black;
+    background: linear-gradient(to right, black, #0d1726);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 p{
     color:snow;
