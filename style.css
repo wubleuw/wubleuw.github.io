@@ -1,13 +1,48 @@
 body{
-    background: linear-gradient(to right, maroon, black);
+    background: linear-gradient(to bottom, rgb(222, 229, 233), rgb(133, 127, 127));
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 p{
-    color:snow;
+    color:rgb(46, 39, 39);
     font-family: Josefin Sans;
 }
-a{
-    color:lightblue;
-    font-family: Josefin Sans;
+a:link{
+    color:rgb(47, 80, 141);
+}
+a:visited{
+    color:rgb(109, 141, 202);
+}
+a:hover{
+    color:tomato;
+}
+a:active{
+    color:red;
+}
+#wow{
+    position: absolute; Right: 40px;
+}
+#header1{
+    width: 847px;
+    height: 93px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header2{
+    width: 749px;
+    height: 78px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardtext{
+    text-align:center;
+    width: 320px;
+    height: 18px;
+}
+.card{
+    background-color:white;
+    width: 320px;
+    height: 198px;
+    margin-left: auto;
+    margin-right: auto;
 }
