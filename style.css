@@ -20,7 +20,9 @@ a:active{
     color:red;
 }
 #wow{
-    position: absolute; Right: 40px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
 }
 #header1{
     width: 847px;
@@ -39,7 +41,7 @@ a:active{
 .cardtext{
     font-size:25px;
     text-align:center;
-    text-shadow: 0px 2px 5px rgb(0, 82, 197);
+    text-shadow: 0px 2px 5px rgb(0, 93, 199);
     margin-bottom: 5px;
     width: 320px;
     height: 27px;
