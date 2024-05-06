@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to bottom, rgb(222, 229, 233), rgb(133, 127, 127));
+    background: linear-gradient(to bottom, rgb(208, 225, 235), rgb(177, 160, 160));
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -25,24 +25,34 @@ a:active{
 #header1{
     width: 847px;
     height: 93px;
+    transform: scale(1.8, 1.6);
     margin-left: auto;
     margin-right: auto;
 }
 #header2{
     width: 749px;
     height: 78px;
+    transform: scale(1.8, 1.6);
     margin-left: auto;
     margin-right: auto;
 }
 .cardtext{
+    font-size:25px;
     text-align:center;
+    text-shadow: 0px 2px 5px rgb(0, 82, 197);
+    margin-bottom: 5px;
     width: 320px;
-    height: 18px;
+    height: 27px;
 }
 .card{
     background-color:white;
     width: 320px;
-    height: 198px;
+    height: 207px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
     margin-left: auto;
     margin-right: auto;
 }
