@@ -24,8 +24,11 @@ a:active{
     height: 200px;
     margin-left: auto;
 }
+.headerdiv{
+    width:auto;
+}
 .header{
-    width:fit-content;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 }
